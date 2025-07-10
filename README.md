@@ -13,7 +13,10 @@ We set new state-of-the-art records on the above public remote sensing dataset.
 ![image](https://github.com/user-attachments/assets/b9d92264-62e9-4a20-859a-71a0cafffac3)  
 
 # Results
+Comparison Results  
 ![image](https://github.com/user-attachments/assets/87bd2972-178c-46e3-a417-cce2b7c4dac8)  
+Ablation Study  
+![image](https://github.com/user-attachments/assets/1d04cf3c-aba8-4b8d-9c7c-a4202eae6be6)
 
 
 # Package dependencies
